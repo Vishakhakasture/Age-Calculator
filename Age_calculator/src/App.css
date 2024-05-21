@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(131, 131, 243);
+}
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.birthdate {
+  padding: 4%;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  display: inline-block;
+}
+
+input {
+  padding: 10px;
+  margin: 40px;
+  font-size: 16px;
+}
+
+button {
+  padding: 13px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+}
+
+h2 {
+  margin-top: 35px;
+  font-size: 25px;
+}
